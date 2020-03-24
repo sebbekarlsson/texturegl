@@ -1,5 +1,5 @@
 # Tiny OpenGL Example
-> A tiny OpenGL example of a bouncing triangle.
+> A tiny OpenGL example of a bouncing textured triangle.
 
 
 ## Dependencies
